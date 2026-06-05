@@ -1,7 +1,6 @@
 # klasifikasi-teks-mbg
 Sistem Klasifikasi Teks Opini Program Makan Bergizi Gratis (MBG) dari X/Twitter menggunakan Pembobotan TF-IDF dan Multi-Classifier Machine Learning.
 ### 📊 Dataset Proyek
-### 📊 Dataset Proyek
 
 Seluruh data opini publik hasil *scraping* dari platform X (Twitter) disimpan secara aman di Google Drive dan terbagi menjadi 3 berkas dataset berkala. Anda dapat mengunduh masing-masing dataset melalui tautan resmi di bawah ini:
 
